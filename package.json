@@ -1,0 +1,13 @@
+{
+    "name": "地圖",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "stretchmode": false,
+        "width": 1771,
+        "height": 1328,
+        "icon": "icon/icon.png"
+    }
+}
